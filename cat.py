@@ -19,5 +19,5 @@ garfield.age = 50
 stella.speak()
 garfield.speak()
 
-#These should NOT be indented inside the class
+#These should NOT be indented inside the classs
 
